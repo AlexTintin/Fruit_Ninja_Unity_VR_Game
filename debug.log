@@ -1,0 +1,3 @@
+[0305/174652.903:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[0305/174652.903:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Student\AppData\Local\Google\Chrome\User Data\Crashpad\reports\c089d98e-4b94-4610-a142-8209138157c2.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0305/174655.406:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
